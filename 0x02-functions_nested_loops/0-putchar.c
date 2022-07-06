@@ -1,20 +1,22 @@
 #include "main.h"
+
 /**
- * main - check the code
+ * main - function to print
  *
- * Return: Always 0.
+ * Return: 0
  */
 int main(void)
 {
-char *sh = "main";
-while (*sh)
-{
-_putchar
-sh++;
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
+	return (0);
 }
-_putchar
-sh++;
-}
-_putchar("\n");
-return (0);
-}
+
+
