@@ -1,2 +1,2 @@
-#!/bin/sh
+#!/bin/bash
 echo "No. of directories is $(find "$@" -type d | wc -l)"
