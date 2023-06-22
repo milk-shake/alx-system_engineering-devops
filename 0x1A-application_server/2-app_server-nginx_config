@@ -22,9 +22,9 @@ server {
         add_header X-Served-By 971-web-01;
         add_header X-Served-By 971-web-01;
         listen 80 default_server;
-rewrite ^/redirect_me https://twitter.com/jossvega103 permanent;
-rewrite ^/redirect_me https://twitter.com/jossvega103 permanent;
-rewrite ^/redirect_me https://twitter.com/jossvega103 permanent;
+rewrite ^/redirect_me https://twitter.com/0x45__ permanent;
+rewrite ^/redirect_me https://twitter.com/0x45__ permanent;
+rewrite ^/redirect_me https://twitter.com/0x45__ permanent;
         listen [::]:80 default_server;
 
         # SSL configuration
